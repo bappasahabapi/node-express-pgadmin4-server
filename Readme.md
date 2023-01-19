@@ -1,3 +1,6 @@
+`USING POSTMAN TO TEST THE APIS`
+
+
 `Run the server type`
     npm init
     node api.js
